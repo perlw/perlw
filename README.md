@@ -23,13 +23,14 @@ always much more to learn.
 * CSS
 * AWS
 * GCP
+* C/C++
 
 ## WIP Features
 
-* C/C++
 * OpenGL
 * WinAPI
 * XLib/XCB
+* Odin
 
 ## Reference
 
