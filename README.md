@@ -24,6 +24,7 @@ always much more to learn.
 * AWS
 * GCP
 * C/C++
+* Terraform
 
 ## WIP Features
 
@@ -34,6 +35,6 @@ always much more to learn.
 
 ## Reference
 
-* https://perlw.se (wip, void)
-* https://pondofsolace.se/pict (wip, unstyled)
+* https://perlw.se (WIP, void)
+* https://pondofsolace.se/pict (WIP, unstyled)
 * per@perlw.se
